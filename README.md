@@ -2,4 +2,4 @@
 
 A mock up of the Google homepage
 
-[link](www.roogle.space)
+[I'm an inline-style link](https://www.google.com)
