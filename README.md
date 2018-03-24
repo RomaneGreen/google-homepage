@@ -1,5 +1,5 @@
-# googlehomepage
+# Googlehomepage
 
-My version of the google homepage
+A mock up of the Google homepage
 
-http://www.theodinproject.com/web-development-101/html-css
+[link](www.roogle.space)
